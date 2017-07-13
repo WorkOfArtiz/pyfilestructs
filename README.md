@@ -1,6 +1,6 @@
 # pyfilestructs
 
-Wrappers for essential datastructures automagically backed up in memory.
+Wrappers for essential datastructures automagically backed up in a file.
 
 For now, I only implemented the FileDict. 
 If this idea is worthwhile, it could be expanded to a more generic container.
